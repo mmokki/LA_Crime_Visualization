@@ -17,8 +17,7 @@ The [LA Crime dataset](https://data.lacity.org/A-Safe-City/Crime-Data-from-2010-
 ### Visualization
 Please check out the interactive dashboards [here](https://public.tableau.com/profile/jing.li5125#!/vizhome/LACrime_15762061642310/Story1?publish=yes)!
 
-![Seasonality]
-(https://github.com/mmokki/LA_Crime_Visualization/blob/master/LA%20Crime%20Visualization%20Screenshots/Seasonality.png)
+![Seasonality](https://github.com/mmokki/LA_Crime_Visualization/blob/master/LA%20Crime%20Visualization%20Screenshots/Seasonality.png)
 
 ![Occurance Time](https://github.com/mmokki/LA_Crime_Visualization/blob/master/LA%20Crime%20Visualization%20Screenshots/Occurance%20Time.png)
 

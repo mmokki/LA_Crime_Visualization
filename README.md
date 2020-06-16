@@ -10,13 +10,18 @@ The [LA Crime dataset](https://data.lacity.org/A-Safe-City/Crime-Data-from-2010-
 ### Visualization
 Please check out the interactive dashboards [here](https://public.tableau.com/profile/jing.li5125#!/vizhome/LACrime_15762061642310/Story1?publish=yes)!
 
-![Seasonality](
-https://github.com/mmokki/LA_Crime_Visualization/blob/master/LA%20Crime%20Visualization%20Screenshots/Seasonality.png)
+![Seasonality]
+(https://github.com/mmokki/LA_Crime_Visualization/blob/master/LA%20Crime%20Visualization%20Screenshots/Seasonality.png)
 
-![Seasonality](
-https://public.tableau.com/profile/jing.li5125#!/vizhome/LACrime_15762061642310/Story1?publish=yes)
+![Occurance Time](https://github.com/mmokki/LA_Crime_Visualization/blob/master/LA%20Crime%20Visualization%20Screenshots/Occurance%20Time.png)
 
+![Occurance Map](https://github.com/mmokki/LA_Crime_Visualization/blob/master/LA%20Crime%20Visualization%20Screenshots/Occurance%20Map.png)
 
+![Crime Type vs Premise](https://github.com/mmokki/LA_Crime_Visualization/blob/master/LA%20Crime%20Visualization%20Screenshots/Crime%20Type%20vs.%20Top%20Premise.png)
+
+![Density Map Crime vs Traffic](https://github.com/mmokki/LA_Crime_Visualization/blob/master/LA%20Crime%20Visualization%20Screenshots/Density%20Map_Crime%20vs.%20Traffic.png)
+
+![Cirme Amount vs Traffic Amount](https://github.com/mmokki/LA_Crime_Visualization/blob/master/LA%20Crime%20Visualization%20Screenshots/Crime%20Amount%20vs.%20Traffic%20Amount.png)
 
 ### Key Takeaways
 - Seasonality exists for the number of crimes happened.

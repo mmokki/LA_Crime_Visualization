@@ -1,11 +1,18 @@
 # LA Crime Visualization and Analysis
-This is a group project. Teams includes Jing Li and Linyan Dai.
+This is a group project. Team consists of Jing Li and Linyan Dai.
 
 ### Goal
-This project aims to analyze crimes that happened in LA regarding its trend, type, and location by visualizing the data in Tableau.
+This project aims to analyze crimes that happened in LA regarding its trend, type, and location by visualizing the data in Tableau. The target audiences are the manager and policemen in LA Police Department.
+
+The following three topics are explored:
+- What is the trend or time pattern of crime incidents in LA? Does seasonality exist?
+- What is the difference between each crime types in terms of victim age, sex, descent and premise?
+- When it comes to incident location, does overall crime related to traffic collision?
+
 
 ### Dataset
 The [LA Crime dataset](https://data.lacity.org/A-Safe-City/Crime-Data-from-2010-to-2019/63jg-8b9z) contains incidents of crime in the City of Los Angeles dating back to 2010. This data is transcribed from original crime reports that are typed on paper and therefore there may be some inaccuracies within the data. We cleaned the data in Python to make more accurate analysis.
+
 
 ### Visualization
 Please check out the interactive dashboards [here](https://public.tableau.com/profile/jing.li5125#!/vizhome/LACrime_15762061642310/Story1?publish=yes)!
@@ -22,6 +29,7 @@ Please check out the interactive dashboards [here](https://public.tableau.com/pr
 ![Density Map Crime vs Traffic](https://github.com/mmokki/LA_Crime_Visualization/blob/master/LA%20Crime%20Visualization%20Screenshots/Density%20Map_Crime%20vs.%20Traffic.png)
 
 ![Cirme Amount vs Traffic Amount](https://github.com/mmokki/LA_Crime_Visualization/blob/master/LA%20Crime%20Visualization%20Screenshots/Crime%20Amount%20vs.%20Traffic%20Amount.png)
+
 
 ### Key Takeaways
 - Seasonality exists for the number of crimes happened.
